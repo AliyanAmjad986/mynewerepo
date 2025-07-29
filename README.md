@@ -1,2 +1,2 @@
 # mynewerepo
-my fist repo
+my fist repos
